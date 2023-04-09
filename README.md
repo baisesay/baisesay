@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baisesay
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
